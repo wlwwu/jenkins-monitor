@@ -1,5 +1,5 @@
 [parameters]
-environment = BIC CN
+environment = 
 email_username =
 email_password =
 email_url = 
