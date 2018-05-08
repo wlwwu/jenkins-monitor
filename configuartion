@@ -2,7 +2,7 @@
 environment = BIC CN
 email_username =
 email_password =
-email_url = http://mail.internal.cn1.bosch-iot-cloud.com
-email_sender = buildpack-manager-jenkins@bosch-iot.com
-email_updated_password = xtajBhIG6JZ8HuTlqFHn
-recipients = linwei.wu@cn.bosch.com
+email_url = 
+email_sender = 
+email_updated_password = 
+recipients = 

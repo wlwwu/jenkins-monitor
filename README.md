@@ -26,8 +26,7 @@ yum install -y monit
 
 ## Configuration Steps ##
 1.Create Email service in the space where buildpack manager application placed
-Below is the link about how to  create and use Email service:
-https://inside-docupedia.bosch.com/confluence/display/BICI/Mail+%28REST%29+-+User+Guide
+
 
 2.Create bindable application for jenkins vmaas virtual machine 
 
